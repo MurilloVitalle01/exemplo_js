@@ -1,1 +1,1 @@
-# exemplo_js
+# exemplos-js

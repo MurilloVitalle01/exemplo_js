@@ -1,0 +1,11 @@
+body {
+    font-size: 14pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+    font-size: 20pt;
+    color: aqua;
+    background-color: #2c2c2c;
+    border-radius: 80px;
+}
